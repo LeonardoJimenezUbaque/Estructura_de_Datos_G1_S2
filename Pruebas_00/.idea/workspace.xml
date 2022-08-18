@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="621fac7d-10ab-4ae9-a18f-5befe3091fc5" name="Changes" comment="" />
+    <list default="true" id="621fac7d-10ab-4ae9-a18f-5befe3091fc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Estructura_de_Datos_G1_S2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios_en_clase/Ejercicios_en_clase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios_en_clase/src/main/kotlin/Ejercicios_en_clase/Ejercicio_00.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_01/Quiz_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_01/src/main/kotlin/Quiz_01/Quiz_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_07.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_08.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/META-INF/Taller_01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/META-INF/Taller_01.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_01Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_01Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_02Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_02Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_03Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_03Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_04Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/out/production/Taller_01/taller_01/Ejercicio_04Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_01/src/main/kotlin/taller_01/Ejercicio_04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/ejercicios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/ejercicios.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +70,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASUS/Documents/Estructura_de_Datos_G1_S2/Taller_02",
+    "last_opened_file_path": "C:/Users/ASUS/Documents/Estructura_de_Datos_G1_S2/Pruebas_00",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cfd92ce-3691-4017-a01e-f1f57568d8cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Estructura_de_Datos_G1_S2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clases_00/Clases_00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios_en_clase/Ejercicios_en_clase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios_en_clase/src/main/kotlin/Ejercicios_en_clase/Ejercicio_00.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Empleado/Empleado/Empleado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_01/Quiz_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_01/src/main/kotlin/Quiz_01/Quiz_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_07.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_08.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller_02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangulo/Triangulo/Triangulo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pruebas_00/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pruebas_00/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Taller_01/META-INF/Taller_01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Taller_01/META-INF/Taller_01.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_01Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_01Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_02Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_02Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_03Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_03Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_04Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Taller_01/taller_01/Ejercicio_04Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/taller_01/Ejercicio_04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/out/production/Taller02/META-INF/Taller02.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/out/production/Taller02/META-INF/Taller02.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/out/production/Taller02/co/edu/ean/estructuradedatos/taller02/EjerciciosKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/out/production/Taller02/co/edu/ean/estructuradedatos/taller02/EjerciciosKtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/out/production/Taller02/co/edu/ean/estructuradedatos/taller02/EjerciciosKtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/EjerciciosKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/EjerciciosKtTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/ejercicios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller_02/src/co/edu/ean/estructuradedatos/taller02/ejercicios_LeonardoJimenez.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CrKdjkwi5OfKdSLMPO8NRyXc0x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/Estructura_de_Datos_G1_S2/Taller_01&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.Ejercicio_12Kt">
+    <configuration name="Ejercicio_06Kt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_06Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_07Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_08Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_10Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_11Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_01.Ejercicio_12Kt" />
+      <module name="Taller_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ejercicio_12Kt" />
+        <item itemvalue="Kotlin.Ejercicio_11Kt" />
+        <item itemvalue="Kotlin.Ejercicio_07Kt" />
+        <item itemvalue="Kotlin.Ejercicio_10Kt" />
+        <item itemvalue="Kotlin.Ejercicio_08Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cfd92ce-3691-4017-a01e-f1f57568d8cc" name="Changes" comment="" />
+      <created>1659555356928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659555356928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
