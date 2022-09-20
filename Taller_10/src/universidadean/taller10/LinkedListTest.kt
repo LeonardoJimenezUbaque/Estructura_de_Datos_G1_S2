@@ -51,7 +51,7 @@ internal class LinkedListTest {
         val ultimo = lista.last()
         assertEquals(15, ultimo)
 
-        val mitad = lista[4] // El quinto elemento
+        val mitad = lista[3] // El quinto elemento
         assertEquals(43, mitad)
         println("Prueba superada ✔")
     }
@@ -144,13 +144,11 @@ internal class LinkedListTest {
         lista.add(63)
         lista.add(35)
         lista.add(8)
-
         // Verificamos el contenido de la lista
         assertEquals(10, lista.size())
 
         // Ahora borramos el segundo elemento, posicion 1
         lista.remove(1)
-
         // Verificamos el tamaño
         assertEquals(9, lista.size())
 
@@ -166,12 +164,10 @@ internal class LinkedListTest {
         assertEquals(63, lista[6])
         assertEquals(35, lista[7])
         assertEquals(8, lista[8])
-
         println("Primera prueba superada ✔")
 
         // Ahora borramos el elemento en la posición 4
         lista.remove(4)
-
         // Verificamos el tamaño
         assertEquals(8, lista.size())
 

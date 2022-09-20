@@ -45,9 +45,9 @@ class ArrayList<T>() : IList<T> {
 
     override fun addToHead(element: T) {
         for(i in tam downTo 1) {
-            info[i]=info[i-1]
+            info[i] = info[i-1]
         }
-        info[0]=element
+        info[0] = element
         ++tam
     }
 
@@ -59,34 +59,36 @@ class ArrayList<T>() : IList<T> {
     override fun add(position: Int, element: T) {
         require(position in 0 until tam)
         for (i in tam downTo position){
-            info[i]=info[i-1]
+            info[i] = info[i-1]
         }
-        info[position]=element
+        info[position] = element
         ++tam
     }
 
     override fun removeFirst() {
         for (i in 0 until tam-1){
-            info[i]=info[i+1]
+            info[i] = info[i+1]
         }
-        info[tam-1]=null//deja vacia la ultima caja
+        info[tam-1] = null // Deja vacia la ultima caja
         tam--
     }
 
     override fun removeLast() {
-        info[tam-1]=null
+        info[tam-1] = null
         tam--
     }
 
     override fun remove(position: Int) {
-        info[position-1]=null//deja vacia la ultima caja
-
+        require(position in 0 until tam)
+        for (i in position until tam-1){
+            info[i] = info[i+1]
+        }
+        info[tam-1] = null
+        --tam
     }
 
-
-
     override fun clear() {
-        tam=0
+        tam = 0
     }
 
     override fun get(position: Int): T {
@@ -95,7 +97,7 @@ class ArrayList<T>() : IList<T> {
 
     override fun indexOf(element: T): Int {
         for (i in 0 until tam){
-            if(info[i]==element){
+            if(info[i] == element){
                 return i
             }
         }
@@ -106,6 +108,6 @@ class ArrayList<T>() : IList<T> {
         require(position in 0 until tam){
             "la posicion es invalida"
         }
-        info[position]=element
+        info[position] = element
     }
 }

@@ -62,7 +62,7 @@ class LinkedList<T>() : IList<T> {
             n.sig = primero
         }
         primero = n
-        tam += 1
+        tam++
     }
 
     /**
@@ -91,7 +91,7 @@ class LinkedList<T>() : IList<T> {
         if (position == 0) {
             addToHead(element)
         }
-        else if (position == tam + 1) {
+        else if (position == tam - 1) {
             add(element)
         }
         else {
@@ -111,7 +111,8 @@ class LinkedList<T>() : IList<T> {
      * Elimina el primer elemento de la lista
      */
     override fun removeFirst() {
-    TODO()
+        primero = primero!!.sig
+        tam--
     }
 
     /**
@@ -137,7 +138,27 @@ class LinkedList<T>() : IList<T> {
      * Elimina el elemento que se encuentra en la posición indicada
      */
     override fun remove(position: Int) {
-    TODO()
+        require(position in  0 until tam)
+        if (position == 0){
+            removeFirst()
+        }
+        else if (position == tam-1){
+            removeLast()
+        }
+        else{
+            var p = primero
+            var q: Nodo<T>? = null
+            var r: Nodo<T>? = null
+            var i = 0
+            while (i != position-1){
+                p = p!!.sig
+                i++
+            }
+            q = p!!.sig
+            r = q!!.sig
+            p!!.sig = r
+            tam--
+        }
     }
 
     /**
@@ -168,7 +189,16 @@ class LinkedList<T>() : IList<T> {
      * existe en la lista
      */
     override fun indexOf(element: T): Int {
-        TODO("Not yet implemented")
+        var p = primero
+        var i = 0
+        while (p != null) {
+            if (p!!.info == element){
+                return i
+            }
+            p = p!!.sig
+            i++
+        }
+        return -1
     }
 
     /**
@@ -176,6 +206,13 @@ class LinkedList<T>() : IList<T> {
      * por elemento dado.
      */
     override fun set(position: Int, element: T) {
-        TODO("Not yet implemented")
+        val n = Nodo(element)
+        var p = primero
+        var i = 0
+        while (i != position-1){
+            p = p!!.sig
+            i++
+        }
+        p!!.sig = n
     }
 }
